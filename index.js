@@ -283,6 +283,9 @@ class DatePicker extends Component {
         underlayColor={'transparent'}
         onPress={this.onPressDate}
       >
+        <Text>
+          Lalala
+        </Text>
         <View style={[Style.dateTouchBody, customStyles.dateTouchBody]}>
           <View style={dateInputStyle}>
             {this.getTitleElement()}
