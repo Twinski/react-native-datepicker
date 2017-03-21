@@ -285,7 +285,7 @@ class DatePicker extends Component {
       >
         <View style={[Style.dateTouchBody, customStyles.dateTouchBody]}>
           <Text>
-            Lalala
+            Hahaha
           </Text>
           <View style={dateInputStyle}>
             {this.getTitleElement()}
